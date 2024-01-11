@@ -14,5 +14,5 @@ router.delete('/categorydelete/:id', categoryDelete)
 
 router.patch('/categoryupdate/:id', categoryUpdate)
 
-
+// test
 module.exports=router;
